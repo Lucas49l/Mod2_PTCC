@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+links
+
+**
+
+****Abes - Carreira em TI: qualificações essenciais para se destacar na área
+https://abes.com.br/carreira-em-ti-qualificacoes-essenciais-para-se-destacar-na-area/
+
+*estudo feito pela WEF e FDC
+O mercado de trabalho tem se modificado ao longo dos anos tornando essencial que os profissionais acompanhem as tendências e se adaptem para garantir sua empregabilidade. Para se ter uma ideia, segundo o estudo “Futuro do Trabalho”, publicado pelo Fórum Econômico Mundial (WEF), em parceria com o Núcleo de Inovação, Inteligência Artificial e Tecnologias Digitais da Fundação Dom Cabral (FDC), cerca de 39% das habilidades existentes deverão ser transformadas ou tornarem-se obsoletas entre 2025 e 2030. Neste cenário, a atualização surge como uma vantagem estratégica para quem deseja se destacar neste mercado em expansão.
+
+*Habilidades desejadas pelas empresas 
+conhecimento técnico em programação, computação em nuvem, segurança cibernética e análise de dados, por exemplo, habilidades relacionais como o pensamento crítico e trabalho em equipe são cada vez mais valorizadas. Com a rápida evolução das tecnologias, a capacitação contínua por meio de certificações e cursos especializados deve ser parte essencial da rotina dos profissionais que almejam uma carreira em TI.
+
+*Empresas buscam Soft Skills - essas habilidades estão em falta no mercado
+Afinal, as empresas podem oferecer suporte à capacitação técnica, mas o profissional é o principal responsável pelo seu desenvolvimento. Ou seja, o conhecimento técnico pode ser adquirido, mas habilidades interpessoais ainda estão em falta no mercado.
+
+
+
+*evolução da Inteligência Artificial (IA), especialmente a generativa, está impulsionando a automação e aumentando a eficiência nas empresas. Para se ter uma ideia, implementar a IA é uma das prioridades de 85% das empresas nos próximos anos, conforme aponta pesquisa desenvolvida pela Bain & Company.
+
+****Crescimentp da IA nas empresas.
+
+https://portal.connectedsmartcities.com.br/2025/07/21/transformacao-digital-nas-empresas-impulsiona-agenda-de-inovacao-e-reforca-base-para-cidades-mais-inteligentes/
+https://abes.com.br/transformacao-digital-nas-empresas-impulsiona-agenda-de-inovacao-e-reforca-base-para-cidades-mais-inteligentes/
+
+A digitalização dos negócios brasileiros é uma realidade em curso. O mais recente estudo da Associação Brasileira das Empresas de Software (ABES), desenvolvido em parceria com a International Data Corporation (IDC) e intitulado Transformação Digital no Brasil – Perspectivas 2025, revela que 95,2% das empresas ouvidas já utilizam ou planejam utilizar inteligência artificial (IA) nos próximos 12 meses. Trata-se de um sinal claro de que a tecnologia deixou de ser apenas suporte operacional e passou a ocupar posição central na estratégia corporativa.
+
+Realizado entre janeiro e abril de 2025, o levantamento ouviu 106 executivos de grandes empresas nos setores de agronegócio, saúde, finanças e educação. A maioria das companhias já destina de 5% a 6% da receita para investimentos em tecnologia da informação (TI), e 75% delas afirmam que pretendem aumentar esse percentual nos próximos anos. A IA aparece como protagonista nessa transformação, voltada principalmente à melhoria da experiência do cliente, segurança de dados e uso estratégico de informações para decisões de negócio.
+
+
+*Redução de investimento em recurso fisicos e foco em recursos de IA
+
+Além disso, o estudo também destaca que parte relevante dessas organizações está reduzindo investimentos em dispositivos físicos como PCs e tablets, priorizando soluções em nuvem e ambientes virtualizados, que oferecem escalabilidade, flexibilidade e maior poder de processamento — elementos indispensáveis à era da IA generativa. Esse movimento aponta para uma mudança de mentalidade: mais do que modernizar a infraestrutura, estamos nos preparando para um futuro dinâmico, orientado por dados e automação.
+
+Mas a consolidação dessa transformação enfrenta entraves expressivos. A pesquisa da ABES também revela desafios que exigem ação coordenada: a escassez de mão de obra qualificada e a falta de diretrizes regulatórias claras limitam o ritmo da adoção tecnológica no Brasil. Para que a transformação seja sustentável e acessível, é necessário investir em capacitação profissional e infraestrutura, promovendo um ambiente que favoreça tanto as empresas quanto o setor público — e, sobretudo, garantindo que a inovação chegue aos diferentes territórios e particularidades regionais do país.
+
+
+*Lume IA na gestão publica
+https://portal.connectedsmartcities.com.br/2025/07/04/agentes-de-ia-a-nova-fase-promissora-dos-sistemas-para-gestao-publica/
+
+*Datacenter
+https://portal.connectedsmartcities.com.br/2025/06/11/data-centers-no-brasil-desafios-oportunidades-e-politicas-publicas-para-um-futuro-digital/
+
+
+*****Cetic
+
+*TI na área da Medicina
+https://cetic.br/pt/noticia/estabelecimentos-de-saude-brasileiros-avancam-na-digitalizacao-mas-habilidade-em-informatica-aplicada-a-area-ainda-e-reduzida-entre-os-profissionais-do-setor-revela-pesquisa/
+
+
+*
+
+
+
+
+
+
+
+
+
+siglas
+
+ABES — Associação Brasileira das Empresas de Software
+
+ABINC — Associação Brasileira de Internet das Coisas
+
+ABRANET — Associação Brasileira de Internet
+
+ASSESPRO — Confederação das Associações das Empresas Brasileiras de Tecnologia da Informação
+
+BRAFIP — Associação Brasileira de Fomento a Inovação em Plataformas Tecnológicas
+
+FENAINFO — Federação Nacional das Empresas de Informática
+
+RIOSOFT — Sociedade Núcleo de Apoio à Produção e Exportação de Software do Rio de Janeiro
+
+TI RIO — Sindicato das Empresas de Informática do Estado do Rio de Janeiro
