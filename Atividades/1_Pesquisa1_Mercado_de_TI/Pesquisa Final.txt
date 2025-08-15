@@ -1,0 +1,61 @@
+*****1. Introdução
+*****1.1 Definição e Relevância da Tecnologia da Informação
+
+Uma das áreas mais promissoras e dinamicas do mundo atualmente, Tecnologia da informação tem uma ampla atuação em diversos setores do mundo e está sempre em constante evolução, tendo uma crescente demanda por profissionais de TI.
+
+A área de Tecnologia da Informação é responsável por lidar com a utilização de tecnologias de informação para gerenciamento, manipulação, armazenamento e transmissão de dados e informações envolvendo conhecimentos e técnicas especificas, dependendo da área de atuação como desenvolvimento de softwares, administração de redes e sistemas entre outras diversas areas possiveis.
+
+hoje em dia indispensavel para as empresas, organizações e governo o mundo digital está em tudo e esse profissional com habilidades e conhecimento para criar, administrar e desenvolver novos produtos e serviços, como aplicativos, softwares, IA e varios outros que são utilizados pelas pessoas diariamente.
+
+Essa area proporciona soluções tecnológicas para melhorar processos, aumenta a eficiência e a produtividade, gerando redução de custos, e lucros para seus clientes. 
+
+De acordo com o site da Catho, a média salarial do profissional de TI varia entre 3.800,00 á mais de 16.000,00 dependendo do cargo e especialização.
+
+O mercado de TI tem bons salários e muitas oportunidades para aqueles que desejam iniciar nela, mas em troca requer muito esforço e estudo continuo.
+
+Os profissionais de TI são responsáveis por desenvolver, manter e gerenciar sistemas de informação, redes de computadores, software, banco de dados e outras tecnologias para garantir o correto funcionamento e a segurança das informações. 
+
+Além disso, eles também trabalham com análise de dados, gestão de projetos, suporte técnico e segurança da informação, sendo, portanto, cada vez mais necessários para empresas de todos os ramos econômicos. Essas funções são o que faz o profissional de TI um elemento de vital importância para a economia que, atualmente, se desenvolve melhor com o uso de tecnologias digitais.
+
+Links
+UNIT. "Importância do profissional de Tecnologia da Informação".
+< https://www.unit.br/blog/importancia-tecnologia-da-informacao >
+Site acessado em: 12/08/2025
+
+*****2. Cenário Atual e Profissionais
+*****2.1 O Profissional de TI
+
+O profissional de TI é responsavel por lidar com tecnologias para gerenciamento, manipulação, armazenamento e transmissão de dados e informaçoes.
+a area envolve em mantér e gerenciar sistemas de informação atraves de Redes, softwares, banco de dados e outras tecnologias que ajudam a manter as informaçoes seguras e com o funcionamento correto. 
+
+E para fazer isso exitem diversas especialização e area de trabalho, algumas delas são
+
+Desenvolvimento de software:  profissionais que criam programas, aplicativos e sistemas.
+Suporte técnico:  prestam suporte e soluções para problemas técnicos relacionados a equipamentos e sistemas de TI.
+Administração de redes: equipe que cuida da infraestrutura de redes de computadores, garantindo sua segurança e eficiência.
+Análise de dados:  especialistas que trabalham com dados e informações para fornecer insights valiosos para as empresas e tomadores de decisão.
+Segurança da informação: profissionais que protegem as informações e dados da empresa, garantindo sua integridade e confidencialidade.
+
+Ter o conhecimento e habilidades técnicas são extremamente importante, porem atualmente as empresas priorizam as habilidade pessoais. Podemos chamas-las de HardSkils e SoftSkils
+
+HardSkils: As Habilidades e conhecimento técnico (programação, computação em nuvem, segurança cibernética, análise de dados e etc.)
+SofSkils: Habilidades socioemocionais (pensamento crítico, comunicação, trabalho em equipe, comportamente de trabalho)
+
+Softs skils :Habilidades socioemocionais (pensamento crítico, comunicação, trabalho em equipe, comportamento de trabalho)
+Ter certificações e cursos especializados é essencial da para os profissionais que almejam uma carreira em TI, mas não pode se prender só a isso, muito dessa carreira é Network e para chegar ao topo dela crucial ter suas soft skils bem desenvolvidas.
+
+
+Ter certificações e cursos especializados é essencial da para os profissionais que almejam uma carreira em TI, mas não pode se prender só a isso, muito dessa carreira é Network e para chegar ao topo dela crucial ter suas softs skils bem desenvolvidas.
+
+
+UNIT. "Importância do profissional de Tecnologia da Informação".
+< https://www.unit.br/blog/importancia-tecnologia-da-informacao >
+Acessado em: 12 agos 2025
+
+ABES. "Carreira em TI: qualificações essenciais para se destacar na área".
+< https://abes.com.br/carreira-em-ti-qualificacoes-essenciais-para-se-destacar-na-area/ >
+Acessado em: 12 agos 2025
+
+2.2 Transformação Digital e Inovação nas Empresas
+
+

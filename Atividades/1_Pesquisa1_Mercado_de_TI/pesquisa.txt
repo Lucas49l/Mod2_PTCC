@@ -1,0 +1,407 @@
+Pesquisa Tema: Mercado de TI no Brasil e no Mundo
+
+Unit: Importância do profissional de Tecnologia da Informação - 08/08
+https://www.unit.br/blog/importancia-tecnologia-da-informacao
+
+***Tecnologia da informação
+Tecnologia da informação
+é um conjunto de recursos utilizados para criar, processar, 
+armazenar, recuperar e trocar dados e informaçes;
+
+Afinal, o que é Tecnologia da Informação? 
+A área de Tecnologia da Informação é responsável por lidar com a utilização de tecnologias de informação para gerenciamento, manipulação, armazenamento e transmissão de dados e informações.
+
+Essas ações envolvem uma série de conhecimentos e técnicas específicas, que vão desde o desenvolvimento de software até a administração de redes e sistemas. A TI é um setor muito dinâmico, com novidades surgindo a todo momento.
+
+Dessa forma, ela é fundamental para o funcionamento de empresas, organizações e até mesmo governos, pois, além de proporcionar soluções tecnológicas para melhorar processos, aumenta a eficiência e a produtividade da máquina pública, gerando redução de custos.
+
+A TI também está relacionada com a criação de novos produtos e serviços, como aplicativos, softwares de computador, Inteligências Artificiais e centenas de outros dispositivos informatizados utilizados diariamente pelas pessoas.
+
+
+O que se faz na Tecnologia da Informação
+Saber o que é Tecnologia da Informação ajuda a compreender como é a sua atuação no mercado de trabalho. A área é responsável por lidar com a utilização de tecnologias para gerenciamento, manipulação, armazenamento e transmissão de dados e informações. 
+
+Os profissionais de TI são responsáveis por desenvolver, manter e gerenciar sistemas de informação, redes de computadores, software, banco de dados e outras tecnologias para garantir o correto funcionamento e a segurança das informações. 
+
+Além disso, eles também trabalham com análise de dados, gestão de projetos, suporte técnico e segurança da informação, sendo, portanto, cada vez mais necessários para empresas de todos os ramos econômicos. Essas funções são o que faz o profissional de TI um elemento de vital importância para a economia que, atualmente, se desenvolve melhor com o uso de tecnologias digitais.
+
+
+**
+
+****Abes - Carreira em TI: qualificações essenciais para se destacar na área
+https://abes.com.br/carreira-em-ti-qualificacoes-essenciais-para-se-destacar-na-area/
+
+O Futuro da TI: Tendências e Inovação Constante
+O cenário da Tecnologia da Informação está em perpétua transformação. Novas tendências como a Inteligência Artificial (IA), Machine Learning, Computação Quântica e a expansão da Internet das Coisas (IoT) prometem revolucionar ainda mais o mercado. Para os profissionais, isso significa a necessidade de aprendizado contínuo e adaptação. A capacidade de inovar e de se manter atualizado com as tecnologias emergentes será o diferencial para quem busca prosperar em um setor que não para de evolver, garantindo relevância e novas oportunidades.
+
+Além do Código: A Importância das Soft Skills em TI
+Embora o domínio técnico seja fundamental na Tecnologia da Informação, as habilidades interpessoais (soft skills) são cada vez mais cruciais para o sucesso. A capacidade de comunicação eficaz, trabalho em equipe, resolução criativa de problemas e adaptação a mudanças permite que os profissionais de TI não apenas desenvolvam soluções, mas também as implementem com sucesso, colaborem eficientemente e liderem projetos. Essas competências humanas são essenciais para transformar conhecimento técnico em valor real para empresas e usuários, tornando o profissional mais completo e requisitado no mercado.
+
+*estudo feito pela WEF e FDC
+O mercado de trabalho tem se modificado ao longo dos anos tornando essencial que os profissionais acompanhem as tendências e se adaptem para garantir sua empregabilidade. Para se ter uma ideia, segundo o estudo “Futuro do Trabalho”, publicado pelo Fórum Econômico Mundial (WEF), em parceria com o Núcleo de Inovação, Inteligência Artificial e Tecnologias Digitais da Fundação Dom Cabral (FDC), cerca de 39% das habilidades existentes deverão ser transformadas ou tornarem-se obsoletas entre 2025 e 2030. Neste cenário, a atualização surge como uma vantagem estratégica para quem deseja se destacar neste mercado em expansão.
+
+*Habilidades desejadas pelas empresas 
+conhecimento técnico em programação, computação em nuvem, segurança cibernética e análise de dados, por exemplo, habilidades relacionais como o pensamento crítico e trabalho em equipe são cada vez mais valorizadas. Com a rápida evolução das tecnologias, a capacitação contínua por meio de certificações e cursos especializados deve ser parte essencial da rotina dos profissionais que almejam uma carreira em TI.
+
+*Empresas buscam Soft Skills - essas habilidades estão em falta no mercado
+Afinal, as empresas podem oferecer suporte à capacitação técnica, mas o profissional é o principal responsável pelo seu desenvolvimento. Ou seja, o conhecimento técnico pode ser adquirido, mas habilidades interpessoais ainda estão em falta no mercado.
+
+
+
+*evolução da Inteligência Artificial (IA), especialmente a generativa, está impulsionando a automação e aumentando a eficiência nas empresas. Para se ter uma ideia, implementar a IA é uma das prioridades de 85% das empresas nos próximos anos, conforme aponta pesquisa desenvolvida pela Bain & Company.
+
+****Crescimentp da IA nas empresas.
+
+https://portal.connectedsmartcities.com.br/2025/07/21/transformacao-digital-nas-empresas-impulsiona-agenda-de-inovacao-e-reforca-base-para-cidades-mais-inteligentes/
+https://abes.com.br/transformacao-digital-nas-empresas-impulsiona-agenda-de-inovacao-e-reforca-base-para-cidades-mais-inteligentes/
+
+A digitalização dos negócios brasileiros é uma realidade em curso. O mais recente estudo da Associação Brasileira das Empresas de Software (ABES), desenvolvido em parceria com a International Data Corporation (IDC) e intitulado Transformação Digital no Brasil – Perspectivas 2025, revela que 95,2% das empresas ouvidas já utilizam ou planejam utilizar inteligência artificial (IA) nos próximos 12 meses. Trata-se de um sinal claro de que a tecnologia deixou de ser apenas suporte operacional e passou a ocupar posição central na estratégia corporativa.
+
+Realizado entre janeiro e abril de 2025, o levantamento ouviu 106 executivos de grandes empresas nos setores de agronegócio, saúde, finanças e educação. A maioria das companhias já destina de 5% a 6% da receita para investimentos em tecnologia da informação (TI), e 75% delas afirmam que pretendem aumentar esse percentual nos próximos anos. A IA aparece como protagonista nessa transformação, voltada principalmente à melhoria da experiência do cliente, segurança de dados e uso estratégico de informações para decisões de negócio.
+
+
+*Redução de investimento em recurso fisicos e foco em recursos de IA
+
+Além disso, o estudo também destaca que parte relevante dessas organizações está reduzindo investimentos em dispositivos físicos como PCs e tablets, priorizando soluções em nuvem e ambientes virtualizados, que oferecem escalabilidade, flexibilidade e maior poder de processamento — elementos indispensáveis à era da IA generativa. Esse movimento aponta para uma mudança de mentalidade: mais do que modernizar a infraestrutura, estamos nos preparando para um futuro dinâmico, orientado por dados e automação.
+
+Mas a consolidação dessa transformação enfrenta entraves expressivos. A pesquisa da ABES também revela desafios que exigem ação coordenada: a escassez de mão de obra qualificada e a falta de diretrizes regulatórias claras limitam o ritmo da adoção tecnológica no Brasil. Para que a transformação seja sustentável e acessível, é necessário investir em capacitação profissional e infraestrutura, promovendo um ambiente que favoreça tanto as empresas quanto o setor público — e, sobretudo, garantindo que a inovação chegue aos diferentes territórios e particularidades regionais do país.
+
+
+*Lume IA na gestão publica
+https://portal.connectedsmartcities.com.br/2025/07/04/agentes-de-ia-a-nova-fase-promissora-dos-sistemas-para-gestao-publica/
+
+*Datacenter
+https://portal.connectedsmartcities.com.br/2025/06/11/data-centers-no-brasil-desafios-oportunidades-e-politicas-publicas-para-um-futuro-digital/
+
+
+*****Cetic
+
+*TI na área da Medicina
+https://cetic.br/pt/noticia/estabelecimentos-de-saude-brasileiros-avancam-na-digitalizacao-mas-habilidade-em-informatica-aplicada-a-area-ainda-e-reduzida-entre-os-profissionais-do-setor-revela-pesquisa/
+
+
+
+
+
+
+
+*15/08
+
+*****Mercado Atual — Brasil e Global
+
+**1. Computação em Nuvem (Cloud)
+https://sindpd.org.br/2024/08/15/areas-da-tecnologia-da-informacao-conheca-as-carreiras-mais-promissoras-para-2025/
+https://edvaldo.tec.br/2024/12/06/tendencias-de-vagas-de-tecnologia-para-2025-setor-deve-crescer-30-no-brasil/
+
+
+**2. Inteligência Artificial (IA) e Machine Learning (ML)
+https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/5-region-economy-and-industry-insights/
+https://www.businessinsider.com/ai-job-market-to-grow-2025-employers-hiring-talent-tech-2024-12
+https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/5-region-economy-and-industry-insights/
+
+https://www.correiobraziliense.com.br/economia/2024/11/6981307-5-tendencias-de-carreiras-na-tecnologia-para-2025.html
+https://digicad.com.br/2025/03/21/tendencias-tecnologicas-do-mercado-de-trabalho-para-2025/
+https://informativotech.com.br/carreiras-tecnologia-2025/?
+
+https://en.wikipedia.org/wiki/Machine_learning_in_Brazilian_industry?utm_source=chatgpt.com
+
+
+**3. Cibersegurança
+https://www.nucamp.co/blog/coding-bootcamp-brazil-bra-brazil-cybersecurity-job-market-trends-and-growth-areas-for-2025
+https://blog.geekhunter.com.br/noticias-do-mercado-de-ti-1/
+https://ecommerceupdate.org/en/artigos/dicas-artigos/em-2025-setor-de-tecnologia-vai-liderar-geracao-de-empregos-em-cargos-gerenciais-no-brasil/
+https://canaltech.com.br/mercado/alta-procura-e-pouca-qualificacao-mercado-de-ti-pode-enfrentar-desafios-em-2025/
+https://www.em.com.br/mundo-corporativo/2024/12/7013830-tecnologia-estudo-mostra-tendencias-de-trabalho-para-2025.html
+
+
+**4. Ciência de Dados e BI
+https://edvaldo.tec.br/2024/12/06/tendencias-de-vagas-de-tecnologia-para-2025-setor-deve-crescer-30-no-brasil/
+https://www.correiobraziliense.com.br/economia/2024/11/6981307-5-tendencias-de-carreiras-na-tecnologia-para-2025.html
+https://digicad.com.br/2025/03/21/tendencias-tecnologicas-do-mercado-de-trabalho-para-2025/
+https://informativotech.com.br/carreiras-tecnologia-2025/
+
+
+**5. Transformação Digital / ERP (SAP)
+https://edvaldo.tec.br/2024/12/06/tendencias-de-vagas-de-tecnologia-para-2025-setor-deve-crescer-30-no-brasil/
+https://www.correiobraziliense.com.br/economia/2024/11/6981307-5-tendencias-de-carreiras-na-tecnologia-para-2025.html
+https://ecommerceupdate.org/en/artigos/dicas-artigos/em-2025-setor-de-tecnologia-vai-liderar-geracao-de-empregos-em-cargos-gerenciais-no-brasil/
+
+
+**6. Outsourcing de TI
+https://www.statista.com/outlook/tmo/it-services/it-outsourcing/brazil
+
+
+**7. TI Verde e Sustentabilidade
+https://pt.wikipedia.org/wiki/TI_verde
+https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_sustent%C3%A1vel
+
+
+**8. Data Centers no Brasil
+https://www.reuters.com/technology/data-center-companies-investing-brazil-2025-01-08/
+https://www.theguardian.com/global-development/2025/may/22/datacentre-drought-chinese-social-media-supercomputers-brazil-latin-america
+https://www.theguardian.com/global-development/2025/mar/04/brazil-power-electricity-energy-poverty-datacentre-boom
+https://time.com/7282222/brazil-clean-energy-ai/?utm_source=chatgpt.com
+https://time.com/7282222/brazil-clean-energy-ai/?utm_source=chatgpt.com
+
+*****Projeções Futuras — 2025 e Além
+
+**Brasil
+https://www.em.com.br/mundo-corporativo/2024/12/7013830-tecnologia-estudo-mostra-tendencias-de-trabalho-para-2025.html
+Vhttps://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/5-region-economy-and-industry-insights/
+
+
+**Mundo
+https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/5-region-economy-and-industry-insights/
+https://www.businessinsider.com/ai-job-market-to-grow-2025-employers-hiring-talent-tech-2024-12
+
+https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/5-region-economy-and-industry-insights/
+https://www.businessinsider.com/ai-job-market-to-grow-2025-employers-hiring-talent-tech-2024-12
+
+https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_sustent%C3%A1vel
+https://time.com/7282222/brazil-clean-energy-ai/?utm_source=chatgpt.com
+
+*****Big Techs
+https://softdesign.com.br/blog/4-coisas-que-a-sua-empresa-de-ti-parceria-deve-ter/
+https://www.easycomtec.com/nosso-blog/22260/conheca-as-10-maiores-empresas-de-ti-do-brasil
+
+
+CI&T
+TOTVS
+TIVIT
+Senior Sistemas (Senior S.A.)
+Meta (Tech Simple Human)
+Accenture
+Thoughtworks
+CI&T
+BRQ
+SoftDesign
+IBM
+Oracle
+TOTVS
+Resultados Digitais (RD Station)
+VTEX
+Pipefy
+Microsoft
+Aaple
+
+
+**TOTVS provavelmente é a maior e única (talvez) 'big‑tech' do Brasil
+https://www.reddit.com/r/brdev/comments/
+
+
+***Visão das grandes empresas em relação ao mercado
+
+*CI&T
+https://ciandt.com/br/pt-br/press-release/ciandt-esta-entre-150-empresas-mais-inovadoras-do-brasil
+https://www.infomoney.com.br/business/cit-aposta-em-inteligencia-artificial-expansao-global-e-mais-aquisicoes-para-sair-da-ressaca-pandemica/
+https://br.investing.com/news/stock-market-news/cit-relata-forte-crescimento-no-2o-tri-e-planos-para-expansao-da-ia-1315711
+https://braziljournal.com/ci-btg-ve-55-de-upside/
+
+*TOTVS
+https://ri.totvs.com/totvs-e-eleita-a-melhor-empresa-do-setor-de-tecnologia-midia-e-telecomunicacoes-no-ranking-latin-america-executive-team-2022/
+https://ri.totvs.com/totvs-e-eleita-a-melhor-empresa-do-setor-de-tecnologia-midia-e-telecomunicacoes-no-ranking-latin-america-executive-team-2023/
+https://pt.wikipedia.org/wiki/Totvs
+
+https://www.totvs.com/large-enterprise/
+https://analisa.genialinvestimentos.com.br/setores/tecnologia/totvs-tots3-iniciacao-de-cobertura-resiliencia-e-inovacao-jogando-no-mesmo-time/
+
+https://www.reddit.com/r/brdev/comments/
+https://www.reddit.com/r/brdev/comments/1bjdw40
+
+*Meta (Facebook, Instagram, WhatsApp)
+https://br.investing.com/news/analyst-ratings/rbc-eleva-meta-de-preco-das-acoes-da-meta-platforms-para-800-devido-as-perspectivas-de-ia-93CH-1447800
+https://br.investing.com/news/analyst-ratings/jefferies-eleva-alvo-para-acoes-da-meta-platforms-para-810-mantem-recomendacao-de-compra-1447802
+https://br.investing.com/news/analyst-ratings/meta-platforms-precoalvo-elevado-recomendacao-de-compra-mantida-devido-as-perspectivas-de-crescimento-93CH-1422932
+
+
+https://elpais.com/america/2025-01-14/meta-responde-a-brasil-que-chequeara-los-cambios-en-estados-unidos-antes-de-expandirlos-por-el-mundo.html
+
+
+*****Países com Maior Carência de Profissionais de TI
+
+*Relatório Global (IACT)
+De acordo com o Global Talent Report da IACT, para o período de 2020–2025, os países com maior déficit estimado de talentos são:
+Alemanha: déficit de 86 %
+Índia: estável em 80 % desde 2023
+Israel: 85 %
+Portugal: 84 %
+
+https://iact.acadnet.net/global-talent-report.php
+
+Além disso, globalmente, a escassez média foi de 74 % em 2025, com os setores mais afetados sendo IA, Data Science e energia verde
+https://iact.acadnet.net/global-talent-report.php
+
+
+*Outros Países com Déficit Notável
+Singapura, Eslováquia, Romênia, Hong Kong: aproximadamente 79 % de escassez de profissionais em setores como TI, engenharia, produtos financeiros e manufatura
+
+https://ca.finance.yahoo.com/news/15-countries-highest-labor-shortages-225003625.html
+
+*Japão
+https://en.wikipedia.org/wiki/Programmer
+
+*Região Nórdica e Europa Oriental
+https://www.elinext.com/blog/worldwide-it-talent-gap-in-2022/
+https://arxiv.org/abs/2506.04588
+https://en.wikipedia.org/wiki/Cyber_Ireland
+https://en.wikipedia.org/wiki/Science_and_technology_in_Israel
+https://arxiv.org/abs/2506.04588
+
+*****Principais Obstáculos na Contratação de Profissionais de TI
+*1. Escassez de talentos com habilidades especializadas
+https://workonpeak.org/10-challenges-in-it-recruiting-and-how-to-overcome/
+https://distantjob.com/blog/it-recruitment-challenges/
+
+*2. Processos de contratação ineficientes ou desatualizados
+https://www.axios.com/2025/07/15/cybersecurity-hiring-fortune-100-expel
+
+*3. Desalinhamento entre educação e exigências do mercado
+https://www.itpro.com/security/the-uks-chronic-shortage-of-cyber-professionals-is-putting-the-country-at-risk
+
+*4. Competição intensa por talentos escassos
+https://workonpeak.org/10-challenges-in-it-recruiting-and-how-to-overcome/
+
+*5. Processo de recrutamento lento e caro
+https://distantjob.com/blog/it-recruitment-challenges/
+https://workonpeak.org/10-challenges-in-it-recruiting-and-how-to-overcome/
+
+*6. Descrições vagas e mal definidas de vagas
+https://wowremoteteams.com/blog/common-challenges-in-it-recruitment/
+
+*7. Falta de alinhamento entre recruteurs e gestores
+https://wowremoteteams.com/blog/common-challenges-in-it-recruitment/
+
+*8. Infraestrutura de recrutamento limitada
+https://alcor-bpo.com/7-common-it-recruitment-challenges-and-how-to-solve-them/
+
+*****Panorama Geral da Escassez de Profissionais de TI dos serviços públicos e militares brasileiros
+https://jcconcursos.uol.com.br/noticia/empregos/deficit-de-formacao-na-area-de-ti-limita-o-crescimento-do-setor-no-brasil-121139
+https://www12.senado.leg.br/tv/programas/em-discussao/2024/08/escassez-de-profissionais-de-ti-no-mercado-brasileiro-e-os-desafios-da-qualificacao
+https://economiasa.com.br/blog/530-mil-vagas-sem-dono-o-deficit-de-talentos-que-impacta-a-transformacao-digital-no-brasil/
+
+
+*Setor Público Federal — Vagas e Condições de Contratação
+https://pt.wikipedia.org/wiki/Concurso_P%C3%BAblico_Nacional_Unificado
+https://fenati.org.br/setor-publico-abre-vagas-ti-salarios-ate-r-19-mil/
+
+**Principais Obstáculos para o Preenchimento das Vagas no Setor Público
+
+*Remuneração Abaixo da Iniciativa Privada
+https://brasscom.org.br/falta-de-profissionais-em-ti-deve-provocar-colapso-no-setor-publico-diz-associacao/
+
+https://www.reddit.com/r/brdev/comments/1ikkx9p
+https://www.reddit.com/r/brasil/comments/1ikorrz
+
+*Natureza dos Concursos e Falta de Especialização
+https://www.reddit.com/r/concursospublicos/comments/1ie09j8
+https://www.reddit.com/r/brdev/comments/1ikkx9p
+https://www.reddit.com/r/concursospublicos/comments/1jgg6i2
+
+*Trabalho Presencial vs. Modelo Remoto
+https://www.reddit.com/r/concursospublicos/comments/1jgg6i2
+
+*Setor Militar e Defesa — TI e Cibersegurança
+https://pt.wikipedia.org/wiki/Centro_de_Defesa_Cibern%C3%A9tica
+https://arxiv.org/abs/2309.08680
+
+*****Plataformas Digitais de Vagas (Privadas)
+*Vagas.com / VAGAS.com.br
+https://tecnologia.vagas.com.br/
+https://pt.wikipedia.org/wiki/Vagas_Tecnologia
+
+*LinkedIn
+https://br.linkedin.com/jobs/ti-vagas
+https://br.linkedin.com/jobs/ti-vagas-piau%C3%AD
+https://br.linkedin.com/jobs/tecnologia-da-informa%C3%A7%C3%A3o-vagas
+
+*BNE (Banco Nacional de Empregos)
+https://pt.wikipedia.org/wiki/Banco_Nacional_de_Empregos
+https://www.reddit.com/r/brdev/comments/1ivwzfv
+
+*Vagas de TI Brasil (site dedicado)
+https://www.vagasdetibrasil.com.br/
+
+*Adzuna (Agregador de vagas internacional)
+https://pt.wikipedia.org/wiki/Adzuna
+
+***Concursos Públicos e Vagas Estatais
+Editais Recentes:
+
+MGS Temporários (Minas Gerais)
+Degase/RJ
+Tribunal de Justiça de MT
+https://blog.grancursosonline.com.br/concursos-ti/amp/
+
+*Concurso Proderj (RJ)
+https://www.estrategiaconcursos.com.br/blog/concursos-ti/
+
+*Outras Perspectivas
+https://blog.grancursosonline.com.br/concursos-ti/amp
+
+*Comentários da comunidade (Reddit)
+https://www.reddit.com/r/concursospublicos/comments/1dey7iy
+https://www.reddit.com/r/concursospublicos/comments/1hcnam1
+https://www.reddit.com/r/concursospublicos/comments/1j1eyik
+
+
+***São Paulo
+
+**Setor Privado – Plataformas Digitais de Emprego
+
+*Indeed Brasil
+https://br.indeed.com/q-ti-l-s%C3%A3o-paulo%2C-sp-vagas.html
+
+*Vagas.com.br
+https://www.vagas.com.br/vagas-de-ti-em-sao-paulo-sp
+
+*InfoJobs
+https://www.infojobs.com.br/vagas-de-ti-em-sao-paulo.aspx
+
+*Portal TalenTI
+https://jcconcursos.com.br/noticia/empregos/procurando-emprego-na-area-de-ti-confira-quase-900-vagas-abertas-em-sao-paulo-108957
+
+
+**Setor Público – Concursos e Seleções Oficiais
+*Prefeitura de São Paulo – Concurso APDO‑TI
+https://folha.qconcursos.com/n/prefeitura-de-sao-paulo-prorroga-inscricoes-para-concurso-de-ti-2025
+https://www.concursos.com.br/noticia/sudeste/sao-paulo/2025/01/prorrogacao-das-inscricoes-para-o-concurso-de-ti-na-prefeitura-de-sao-paulo.html
+
+https://concursos.adv.br/concurso-prefeitura-sao-paulo-sp/
+
+*Fundap (Governo de SP)
+https://www.saopaulo.sp.gov.br/spnoticias/ultimas-noticias/concurso-da-fundap-abre-inscricoes-para-107-vagas-nas-areas-de-ti-e-gestao-administrativa/
+
+*SUSEP (Federal)
+https://www.reddit.com/r/CentralConcursos/comments/1ir566h
+
+*Tribunal de Justiça de SP
+https://www.reddit.com/r/CentralConcursos/comments/1iq642w
+
+*Outros órgãos
+https://blog.grancursosonline.com.br/concursos-ti/
+
+*Percepções da Comunidade (Reddit)
+Os concursos no setor público, embora bem remunerados e estáveis, enfrentam forte concorrência. Um participante comentou que órgãos como a SEFAZ-SP (remuneração inicial acima de R$ 25 mil) são altamente disputados e não têm concursos recentes
+Para muitos profissionais de TI, a capital paulista concentra as oportunidades, mas também apresenta desafios elevados — desde custo de vida até competitividade aguçada
+
+https://www.reddit.com/r/ConcursosBR/comments/1j4lj4m
+https://www.reddit.com/r/faculdadeBR/comments/1h3p508
+https://www.reddit.com/r/brdev/comments/1d3co4z
+
+siglas
+
+ABES — Associação Brasileira das Empresas de Software
+
+ABINC — Associação Brasileira de Internet das Coisas
+
+ABRANET — Associação Brasileira de Internet
+
+ASSESPRO — Confederação das Associações das Empresas Brasileiras de Tecnologia da Informação
+
+BRAFIP — Associação Brasileira de Fomento a Inovação em Plataformas Tecnológicas
+
+FENAINFO — Federação Nacional das Empresas de Informática
+
+RIOSOFT — Sociedade Núcleo de Apoio à Produção e Exportação de Software do Rio de Janeiro
+
+TI RIO — Sindicato das Empresas de Informática do Estado do Rio de Janeiro
