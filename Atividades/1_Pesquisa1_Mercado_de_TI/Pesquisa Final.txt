@@ -58,4 +58,54 @@ Acessado em: 12 agos 2025
 
 2.2 Transformação Digital e Inovação nas Empresas
 
+A IA vem avançando com muita força reduzindo custos e aumentando a produtividade e a competitividade do produto, ao ponto que fica impossivel competir no mercado sem usa-lá..
+
+Recentemente um estudo feito pela ABES em parceria com a IDC intitulado Transformação Digital no Brasil – Perspectivas 2025, mostrou que 95,2% das empresas ouvidas planejam ou ja utilizam a IA.
+
+Realizado entre janeiro e abril de 2025, o levantamento ouviu 106 executivos de grandes empresas nos setores de agronegócio, saúde, finanças e educação. A maioria das companhias já destina de 5% a 6% da receita para investimentos em tecnologia da informação (TI), e 75% delas afirmam que pretendem aumentar esse percentual nos próximos anos.
+
+O estudo também aponta a diminuição de investimento em dispositivos fisicos para aumentar em recusos envolvendo a IA, focando em dados e automação.
+
+
+
+https://www.bain.com/pt-br/about/media-center/press-releases/south-america/2023/cerca-de-85-das-empresas-consideram-adotar-a-inteligencia-artificial-nos-proximos-anos-mostra-pesquisa-da-bain/?utm_source=chatgpt.com
+
+Bain & Company
+
+
+
+
+
+
+
+
+
+
+3.1 Mercado Atual — Brasil e Global
+
+Com o avanço das tecnologias o Universo de TI acaba se ramificando cada vez mais areas novas de atuação vão surgindo outras acabam perdendo espaços e tem aquelas que cabam ganhando mais relevancia. Alguns dos setores mais promissoras para os proximos anos são:
+
+CLOUD
+Uma das principais tecnologias da revolução digital a Computação em Nuvem permite uma melhor escalabilidade, flexibilidade e eficiência de custos.
+Com isso empresas estão mudando para AWS, Google Cloud e Azure, e isso requer a necessidade de engenheriros de Softwares capacitados em  infraestrutura e dados.
+Segundo a Gartner 90% das organizações adotarão uma abordagem de nuvem híbrida até 2027.
+Nuvem hibrida é o uso de combinaçoes de nuvem privada, publica e servidores, onde se usa a nuvem privada para armazenar dados e processos criticos e a publica ou/e servidores para executar aplicaçoes, aumentando a segurança, flexibilidade e a performaçe do sistema.
+
+
+https://sindpd.org.br/2024/08/15/areas-da-tecnologia-da-informacao-conheca-as-carreiras-mais-promissoras-para-2025/
+https://www.gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025
+
+Inteligência Artificial (IA) e Machine Learning (ML)
+
+https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/5-region-economy-and-industry-insights/
+https://www.businessinsider.com/ai-job-market-to-grow-2025-employers-hiring-talent-tech-2024-12
+https://edvaldo.tec.br/2024/12/06/tendencias-de-vagas-de-tecnologia-para-2025-setor-deve-crescer-30-no-brasil/
+
+
+
+
+
+
+
+
 
