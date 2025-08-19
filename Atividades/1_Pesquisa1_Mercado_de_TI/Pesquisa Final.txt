@@ -95,13 +95,25 @@ Nuvem hibrida é o uso de combinaçoes de nuvem privada, publica e servidores, o
 https://sindpd.org.br/2024/08/15/areas-da-tecnologia-da-informacao-conheca-as-carreiras-mais-promissoras-para-2025/
 https://www.gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025
 
-Inteligência Artificial (IA) e Machine Learning (ML)
+
+*Inteligência Artificial (IA) e Machine Learning (ML)
+
+Segundo a CEO da Salesforce, Marc Benioff, fala sobre o aumento na contratação desses rofissionai em sua empresa.
+Com o crescente aumento da IA  no mercadado a demanda por esse profissional será muito alta, funçoes que envolvam implementação e transformação de IA será muito visada pelas pequenas empresas.
+Masayoshi Son, CEO do SoftBank, também falou recentemente sobre o potencial da IA e o aumento dos empregos em IA e áreas relacionadas
+Indeed aponta um crescimento de empregos que menciona IA
+
+Business Insider."O mercado de trabalho de IA deve crescer como uma bola de neve em 2025"
+https://www.businessinsider.com/ai-job-market-to-grow-2025-employers-hiring-talent-tech-2024-12
+
+dificuldade cultural cria barreiras em cetores da economia e como alternativa recorrem a IA.
+
+diversos paise focam no desenvolvimento das empresas investem pesado em IA, fazedo dessa area uma grande oportunidade para novos profissionais de TI 
+
+world econimic forum."The Future of Jobs Report 2025"
+
 
 https://www.weforum.org/publications/the-future-of-jobs-report-2025/in-full/5-region-economy-and-industry-insights/
-https://www.businessinsider.com/ai-job-market-to-grow-2025-employers-hiring-talent-tech-2024-12
-https://edvaldo.tec.br/2024/12/06/tendencias-de-vagas-de-tecnologia-para-2025-setor-deve-crescer-30-no-brasil/
-
-
 
 
 
